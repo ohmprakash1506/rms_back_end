@@ -1,0 +1,8 @@
+{
+  "env": {
+    "JWT_KEY": "K5gd7K7Afhy357Vz9",
+    "URL": "http://127.0.0.1:8080/api",
+    "EMAIL": "rmsgloify@gmail.com",
+    "EMAIL_PASS": "ftqozyzcueumuafo"
+  }
+}
